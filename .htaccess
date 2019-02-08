@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteBase /
+
+
+redirect 301 /incajungle.php /inca-jungle.php
+redirect 301 /machupicchu.php /machu-picchu.php

@@ -1,0 +1,207 @@
+/*============================================================================================*/
+/* MEDIA QUERIES size 768/1200px  */
+/*============================================================================================*/
+@media (min-width: 768px) and (max-width: 1200px) {
+	
+.mainmenu ul{width: 100%;}
+.mainmenu ul a{padding: 13px 10px;}
+
+}
+/* LOGO H1 FOR RETINA DISPLAY  */
+
+/*============================================================================================*/
+/* MEDIA QUERIES max-width 991px  */
+/*============================================================================================*/
+@media (max-width: 991px) {
+	
+.mainmenu ul{width: 100%;}
+.mainmenu ul li{display: none}
+.logo-home {
+
+    display: block !important;
+    float: initial !important;
+    text-align: center !important;
+}
+}
+	
+}
+/* END MEDIA QUERIES max-width 991px  */
+
+/*============================================================================================*/
+/* MEDIA QUERIES size 769/979px  */
+/*============================================================================================*/
+@media (min-width: 769px) and (max-width: 979px) {
+
+.mainmenu ul{width: 100%;}
+.projetosocial
+{
+	display: none;
+}
+.padding-slider
+{
+	padding: 0px;
+}
+}
+	
+}
+/* END MEDIA QUERIES size 769/979px  */
+
+/*============================================================================================*/
+/* MEDIA QUERIES max-width 768px - TABLETS  */
+/*============================================================================================*/
+@media (max-width: 768px) {
+	
+.projetosocial
+{
+	display: none;
+}
+.padding-slider
+{
+	padding: 0px;
+}
+.container
+{
+	margin: 0px auto 0px auto !important;
+}
+	
+}
+/* MEDIA QUERIES max-width 768px - TABLETS  */
+
+/*============================================================================================*/
+/* MEDIA QUERIES max-width 767px - MOBILE LANDSCAPE  */
+/*============================================================================================*/
+@media (max-width: 767px) {
+.mainmenu ul{width: 100%;}
+
+.facebook
+{
+	width: 100%;
+}
+.padding-slider
+{
+	padding: 0px;
+}
+.projetosocial
+{
+	display: none;
+}
+.container
+{
+	margin: 0px auto 0px auto !important;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.csc
+{
+    padding: 0px !important;
+}
+#slider-thumbs
+{
+  height: auto !important;	
+}
+.navbar-toggle
+{
+	margin-bottom: 0px;
+	margin-top: 2px;
+}
+.slider-text {
+
+    background-color: #dd4646;
+    padding: 3px 6px;
+    border-radius: 1px;
+    line-height: 1.3em;
+    font-size: .9em;
+
+}
+
+
+.carousel-caption {
+
+    position: absolute;
+    right: 15%;
+    bottom: 35%;
+    left: 15%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+
+}
+.image img
+{
+    width: 200px;
+}
+.certificados-home img {
+    width: 32% !important;
+    margin: 0px !important;
+}
+.facebook iframe
+{
+    width: 430px !important;
+}
+
+}
+/* END MEDIA QUERIES max-width 767px - MOBILE LANDSCAPE  */
+
+/*============================================================================================*/
+/* MEDIA QUERIES max-width 480px - MOBILE PORTRAIT  */
+/*============================================================================================*/
+@media (max-width: 480px) {
+
+.padding-slider
+{
+	padding: 0px;
+}
+	
+	.logo-home img {
+    max-width: 205px !important;
+}
+.efooter a
+{
+	padding: 6px 9px;
+}
+.slider-text {
+
+    background-color: #dd4646;
+     padding: 3px 6px;
+    border-radius: 1px;
+    line-height: 1.3em;
+    font-size: .9em;
+
+}
+.image img
+{
+    width: 200px;
+}
+
+.carousel-caption {
+
+    position: absolute;
+    right: 15% !important;
+    bottom: 35% !important;
+    left: 15% !important;
+    z-index: 10;
+    top: 40px !important;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+
+}
+div.slideshow-container
+{
+    height: auto !important;
+}
+div.slideshow span.image-wrapper
+{
+    position: relative !important;
+}
+#comentario
+{
+    width: 100%;
+}
+}
+/* END MEDIA QUERIES max-width 480px - MOBILE PORTRAIT  */

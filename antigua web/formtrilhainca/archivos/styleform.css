@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+body{ margin:0px; font-family:Arial, Helvetica, sans-serif; font-size:12px;}
+.container{ width:950px; margin:0 auto; border:1px solid #F90; padding:5px;}
+.header{ background:#F60; padding:3px 10px; position:relative;}
+.header h1{ position:absolute; top:25px; right:50px; margin:0px; padding:0px; color:#FFF;}
+
+.table1{ width:100%;}
+.bg1{ background:#000; text-align:center; color:#CCC; font-weight:bold; font-size:10px;}
+.table1 td{ padding:3px;}
+.bg1 td{ padding:5px 0px;}
+.bg2{ background:#D8FFB0;}
+.bg3{ background:#CEF;}
+.bg2:hover,.bg3:hover{ background:#FC0;}
+
+.bg4{ background:#036; color:#FFF; padding:5px;}
+.bg4 strong{color:#FF0; font-size:18px;}
+
+.table1 .input{ width:138px;}
+
+.tad{ text-align:right;}
+em{ color:#F00; font-weight:bold;}
+
+h2{ color:#FFC; background:#CC3333; font-size:17px; text-transform:uppercase; font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;}
+h2 strong{ color:#FF0;}
+h3{ color:#F30;}
+h2,h3{ margin:0px; padding:5px;}
+.send{ padding:8px 25px; font-size:15px;color:#666;}
+
+/* SELELCT PAGE */
+.np{ padding:5px;}
+.bselect{ padding:11px 70px 11px 30px; background:url(vi1.png) top left no-repeat; font-size:14px; font-weight:bold; border:0px; cursor:pointer; color:#002851;}
+.bselect:hover{ background:url(vi1.png) bottom left no-repeat; color:#600;}
+
+.term{ padding:10px; text-align:justify;}
