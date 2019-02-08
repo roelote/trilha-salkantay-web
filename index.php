@@ -272,19 +272,19 @@ $title_tour="";
                 <div class="pacotes-home">
                         <a href="cuscopunoalternativo.php">
                             <img class="img-thumbnail w-100" src="img/pacotes_peru_1.jpg" alt="pacotes peru">
-                             <div class="text-center nc-color text-light"><span>MAIS INFORMAÇÕES ...</span></div>
+                             <div class="text-center nc-color text-light"><span>MAIS INFORMAÇÕES</span></div>
                         </a>
                 </div>
                 <div class="pacotes-home">
                         <a href="lima-cusco-puno.php">
                             <img class="img-thumbnail w-100" src="img/pacotes_peru_2.jpg" alt="pacotes peru">
-                             <div class="text-center nc-color text-light"><span>MAIS INFORMAÇÕES ...</span></div>
+                             <div class="text-center nc-color text-light"><span>MAIS INFORMAÇÕES</span></div>
                         </a>
                 </div>
                 <div class="pacotes-home">
                         <a href="pacotetudoperu.php">
                             <img class="img-thumbnail w-100" src="img/pacotes_peru_3.jpg" alt="pacotes peru">
-                             <div class="text-center nc-color text-light"><span>MAIS INFORMAÇÕES ...</span></div>
+                             <div class="text-center nc-color text-light"><span>MAIS INFORMAÇÕES</span></div>
                         </a>
                 </div>
 
